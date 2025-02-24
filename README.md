@@ -52,4 +52,4 @@ Part 2
   * Enabled: Users can create and share AI skill item types
 
 ## Notebooks
-* Download the following files to your Desktop
+* Download the following files to your Desktop (TBD)
