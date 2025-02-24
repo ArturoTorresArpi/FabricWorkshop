@@ -53,3 +53,4 @@ Part 2
 
 ## Notebooks
 * Download the following files to your Desktop (TBD)
+* Download the following Notebooks to your Desktop (TBD)
