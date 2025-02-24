@@ -54,3 +54,7 @@ Part 2
 ## Notebooks
 * Download the following files to your Desktop (TBD)
 * Download the following Notebooks to your Desktop (TBD)
+
+## CI with DevOps
+* Create a DevOps Organization in the same Tenant as the Fabric Tenant
+* Create a DevOps Project
