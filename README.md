@@ -57,4 +57,4 @@ Part 2
 
 ## CI with DevOps
 * Create a DevOps Organization in the same Tenant as the Fabric Tenant
-* Create a DevOps Project
+* Create a Private DevOps Project
