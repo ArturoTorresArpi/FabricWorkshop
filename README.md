@@ -43,7 +43,11 @@ Part 2
 * Upload the following two files to the container. The files are loaded in the "Day_1" Folder.
   * AdventureWorksLT_Customers.csv
   * AdventureWorksLT_Products.csv
- 
+
+## Copy Job
+* Fabric Tenant Admin Configurations:
+  * Enabled: Copy Job (preview)
+
 ## AI Skills
 * Configure settings to allow creation of AI Skills.
   * Setup a Temporary F64 Capacity (Trial capacities will not work)
