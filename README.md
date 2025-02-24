@@ -45,7 +45,7 @@ You don't need to do pre-work.
 You don't need to do pre-work.
 
 ## Shortcuts (External ADLS and Internal)
-* Create an Azure Storage Count and a container. 
+* Create an Azure Storage Count and a Container. 
 * The storage account must have "Hierarchical Namespaces" enabled. 
 * Upload the following two files to the container. The files are loaded in the "Day_1" Folder.
   * AdventureWorksLT_Customers.csv
