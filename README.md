@@ -37,16 +37,16 @@ Part 2
   * Authentication:
     * System Assigned Managed Identity = On
 
-
-## Medallion Architecture
-You don't need to do pre-work.
-
-## Pipelines with Copy Job (Preview)
-You don't need to do pre-work.
-
 ## Shortcuts (External ADLS and Internal)
 * Create an Azure Storage Count and a Container. 
 * The storage account must have "Hierarchical Namespaces" enabled. 
 * Upload the following two files to the container. The files are loaded in the "Day_1" Folder.
   * AdventureWorksLT_Customers.csv
   * AdventureWorksLT_Products.csv
+ 
+## AI Skills
+* Configure settings to allow creation of AI Skills.
+  * Setup a Temporary F64 Capacity (Trial capacities will not work)
+* Fabric Tenant Admin Configurations:
+  * Enabled: Users can use Copilot and other features powered by Azure OpenAI
+  * Enabled: Users can create and share AI skill item types
