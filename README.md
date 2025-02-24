@@ -50,3 +50,6 @@ Part 2
 * Fabric Tenant Admin Configurations:
   * Enabled: Users can use Copilot and other features powered by Azure OpenAI
   * Enabled: Users can create and share AI skill item types
+
+## Notebooks
+* Download the following files to your Desktop
