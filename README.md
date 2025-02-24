@@ -1,5 +1,7 @@
 # FabricWorkshop
 ## Topics
+The following outline will be the topics we will cover during these two days. Each folder contains the necessary files to carry out each workshop section. For specific topics, some pre-work needs to be done (e.g., deploying an Azure SQL Server), and you will find the instructions in each folder.
+
 ### Day 1
 - SQL Mirroring*
 - Medallion Architecture*
