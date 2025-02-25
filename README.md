@@ -62,3 +62,6 @@ Part 2
 ## CI with DevOps
 * Create a DevOps Organization in the same Tenant as the Fabric Tenant
 * Create a Private DevOps Project
+
+## Real-time Intelligence
+* Download the "Real_Time_Intelligence_End_to_End_Deployment.ipynb" Notebook
